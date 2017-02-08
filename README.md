@@ -1,7 +1,7 @@
 # SDC-P1
 Udacity SDC Project 1: Finding Lane Lines on the Road
 
-SDC-P1 is a program written in Python to identify lane lines on the road in either images or videos.
+SDC-P1 is a program written in Python in *Jupyter Notebook* form to identify lane lines on the road in either images or videos.
 
 ![Example SDC-P1 Image](./test_images/solidWhiteCurve-processed.jpg)
 
